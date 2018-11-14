@@ -12,5 +12,6 @@ public class TallerCIITEC {
       foreach(int i : variable){
         System.out.println(i+" ");
       }
-    }
+    } //Este es un comentario hecho por Itzel 
 }
+ 
